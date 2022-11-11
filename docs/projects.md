@@ -8,6 +8,8 @@ Stock Watchlist GUI Program Repository [Link](https://github.com/BrokenTek/Stock
 
 [GUI For Stock Scraper and Watchlist](./assets/project_img.PNG)
 
+
++
 ---
 id: projects
 title: ParagonScraperGUI
