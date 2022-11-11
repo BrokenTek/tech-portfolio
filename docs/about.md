@@ -3,29 +3,18 @@ id: about
 title: About
 ---
 
-I am currently attending GHC20 (Grace Hopper Celebration 2020). I began this portfolio in a workshop and it is the greatest idea ever!
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+I am a software developer with a passion for problem solving. I have experience with multiple languages and enjoy 
+creating projects that combine multiple frameworks to bring together robust desktop and web applications. I have
+a Computer Programming & Development AAS degree that was very enjoyable to earn as the contents of the program
+were concepts that interested me greatly.
 
-1. Your current position
-2. Organizations you're involved with
-3. Your personal and professional values
-4. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
-
-## Current Role
-
-Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+Some Things About Me
+1. I am a manager at a Chipotle Mexican Grill located in Durham, NC.
+2. I am involved in the handling of front-end updates to a few church websites.
+3. I value hard work, a modular approach to problem solving and commitment.
+4. I have received a certificate for C++ Programming.
 
 ## Social Media
 
-See the bottom of my website pages.
+www.linkedin.com/in/carson-pribble
+https://github.com/brokentek
