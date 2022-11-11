@@ -9,10 +9,7 @@ Stock Watchlist GUI Program Repository [Link](https://github.com/BrokenTek/Stock
 [GUI For Stock Scraper and Watchlist](./assets/project_img.PNG)
 
 
----
-id: projects
-title: ParagonScraperGUI
----
+ParagonScraperGUI
 
 Paragon Theaters Seat Volume Scraper (for Cary, NC Parkside Location) [Link](https://github.com/BrokenTek/ParagonScraperGUI)
 
